@@ -20,7 +20,7 @@ Mi perfil de github es este [github](https://github.com/SamuelCote06/2SMR-SEGINF
 
 Separador horizontal 
 ---
-Macarrones que ricos
+> **IMPORTANTE**: Macarrones que ricos
 
 |Seguridad informatica | Marta Lopez Ron | 4 horas |
 
