@@ -23,4 +23,4 @@ Separador horizontal
 > **IMPORTANTE**: Macarrones que ricos
 
 |Seguridad informatica | Marta Lopez Ron | 4 horas |
-
+|----------------------|-----------------|---------|
